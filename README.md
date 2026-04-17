@@ -1,7 +1,5 @@
 ![Terminal Introduction](terminal-recording.gif)
 
-## About Me
-
 Hi, I'm Faruk! 👋
 
 Building solutions to change the world.
