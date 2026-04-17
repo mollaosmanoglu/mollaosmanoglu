@@ -15,3 +15,10 @@ Building solutions to change the world.
 🎨 I also love designing web apps and creating video content.
 
 ✨ See something cool? Let's connect.
+
+---
+
+## 📊 Coding Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
